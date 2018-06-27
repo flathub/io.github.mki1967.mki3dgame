@@ -67,25 +67,25 @@
 		{
 		    "type": "git",
 		    "url": "https://github.com/mki1967/mki3dgame",
-		    "commit" : "8a50733415d8e033ecb22752046494ddf40cf77c",
+		    "commit" : "97806292ea85a1fed680314bb4b9b57dfcc619c7",
 		    "dest": "go/src/github.com/mki1967/mki3dgame"
 		},
 		{
 		    "type": "git",
 		    "url": "https://github.com/go-gl/gl",
-		    "commit" : "ac0d3d2af0fe995e2bb09fa6619b716b0c0fc0fa",
+		    "commit" : "68e2537930806bfcee1b92a0e14b4e9b8bb3a3e3",
 		    "dest": "go/src/github.com/go-gl/gl"
 		},
 		{
 		    "type": "git",
 		    "url": "https://github.com/go-gl/glfw",
-		    "commit" : "513e4f2bf85c31fba0fc4907abd7895242ccbe50",
+		    "commit" : "46a8d530c3268b31eeb1310f30fe42be1cae98f2",
 		    "dest": "go/src/github.com/go-gl/glfw"
 		},
 		{
 		    "type": "git",
 		    "url": "https://github.com/go-gl/mathgl",
-		    "commit" : "062629838a6b477efe492188d39194935ac07cd6",
+		    "commit" : "5ab0e04e1f55a10f3a71b1fccc60ca2ee9a0bc02",
 		    "dest": "go/src/github.com/go-gl/mathgl"
 		},
 		{
@@ -97,13 +97,13 @@
 		{
 		    "type": "git",
 		    "url": "https://github.com/mki1967/go-skybox",
-		    "commit" : "9f6ee5c0e59077cb7320e53b7f80792d47cd354a",
+		    "commit" : "4ccc9c2cd45ca9b64c99d281d2bdd0cc98044ea9",
 		    "dest": "go/src/github.com/mki1967/go-skybox"
 		},
 		{
 		    "type": "git",
 		    "url": "https://github.com/golang/image",
-		    "commit" : "12117c17ca67ffa1ce22e9409f3b0b0a93ac08c7",
+		    "commit" : "f315e440302883054d0c2bd85486878cb4f8572c",
 		    "dest": "go/src/golang.org/x/image"
 		}
 	    ]
