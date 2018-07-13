@@ -67,7 +67,7 @@
 		{
 		    "type": "git",
 		    "url": "https://github.com/mki1967/mki3dgame",
-		    "commit" : "b62d9be52b2863a9cda6a7d3171cbed6c67f7f74",
+		    "commit" : "02acd53711d54ef85b17310b3c433e67898e18d4",
 		    "dest": "go/src/github.com/mki1967/mki3dgame"
 		},
 		{
@@ -97,7 +97,7 @@
 		{
 		    "type": "git",
 		    "url": "https://github.com/mki1967/go-skybox",
-		    "commit" : "4ccc9c2cd45ca9b64c99d281d2bdd0cc98044ea9",
+		    "commit" : "cf0150fa725a42f9e77527b5de91e18e5ef07606",
 		    "dest": "go/src/github.com/mki1967/go-skybox"
 		},
 		{
