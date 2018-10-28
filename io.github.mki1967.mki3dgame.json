@@ -73,13 +73,13 @@
 		{
 		    "type": "git",
 		    "url": "https://github.com/go-gl/gl",
-		    "commit" : "68e2537930806bfcee1b92a0e14b4e9b8bb3a3e3",
+		    "commit" : "55b76b7df9d25d70b63e31a767f47158292b85d8",
 		    "dest": "go/src/github.com/go-gl/gl"
 		},
 		{
 		    "type": "git",
 		    "url": "https://github.com/go-gl/glfw",
-		    "commit" : "2484f3e51bc432ea9f7daa182e418d5522201176",
+		    "commit" : "691ee1b84c51ae625ed1aafebc915d3db3d63d66",
 		    "dest": "go/src/github.com/go-gl/glfw"
 		},
 		{
@@ -103,7 +103,7 @@
 		{
 		    "type": "git",
 		    "url": "https://github.com/golang/image",
-		    "commit" : "c73c2afc3b812cdd6385de5a50616511c4a3d458",
+		    "commit" : "2a2258ff36e99cf9156acfc715e3f83d47d6f0fd",
 		    "dest": "go/src/golang.org/x/image"
 		}
 	    ]
