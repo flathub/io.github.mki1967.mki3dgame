@@ -67,7 +67,7 @@
 		{
 		    "type": "git",
 		    "url": "https://github.com/mki1967/mki3dgame",
-		    "commit" : "0113ae8ca1ab8c40e4114960f41021ae0da81424",
+		    "commit" : "de0af7ecea0c5791e235c57d39e5b7a2e7f57c20",
 		    "dest": "go/src/github.com/mki1967/mki3dgame"
 		},
 		{
@@ -85,13 +85,13 @@
 		{
 		    "type": "git",
 		    "url": "https://github.com/go-gl/mathgl",
-		    "commit" : "c4601bc793c7a480dab005cf969aab0d7a7fb07d",
+		    "commit" : "592312d8590acb0686c14740dcf60e2f32d9c618",
 		    "dest": "go/src/github.com/go-gl/mathgl"
 		},
 		{
 		    "type": "git",
 		    "url": "https://github.com/mki1967/go-mki3d",
-		    "commit" : "55197faecb010cc06cb3e158017b5527fd73a5f5",
+		    "commit" : "cc9bc88f25b208ba17f4b89bafddd7daa2e3e7bb",
 		    "dest": "go/src/github.com/mki1967/go-mki3d"
 		},
 		{
