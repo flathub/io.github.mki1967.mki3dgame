@@ -67,7 +67,7 @@
 		{
 		    "type": "git",
 		    "url": "https://github.com/mki1967/mki3dgame",
-		    "commit" : "d6a0d839151ccfd371e5f9b931a89caf0c64a5c3",
+		    "commit" : "500e390358ae54f2828c24ec0627bfbc732cd5d4",
 		    "dest": "go/src/github.com/mki1967/mki3dgame"
 		},
 		{
@@ -79,7 +79,7 @@
 		{
 		    "type": "git",
 		    "url": "https://github.com/go-gl/glfw",
-		    "commit" : "12ad95a8df72b2f4e72eab0d29daa5e27a5c84ac",
+		    "commit" : "258d9bec320e815de27a5604ccd657e1a519a20e",
 		    "dest": "go/src/github.com/go-gl/glfw"
 		},
 		{
@@ -103,7 +103,7 @@
 		{
 		    "type": "git",
 		    "url": "https://github.com/golang/image",
-		    "commit" : "9130b4cfad522142c86367afe5e34ce811a85a4b",
+		    "commit" : "58c23975cae11f062d4b3b0c143fe248faac195d",
 		    "dest": "go/src/golang.org/x/image"
 		}
 	    ]
