@@ -12,7 +12,7 @@
 	"--socket=x11",
 	"--socket=pulseaudio",
 	"--share=network",
-	"--device=dri",
+	"--device=all",
 	"--socket=wayland"
     ],
     "cleanup": [
@@ -67,7 +67,7 @@
 		{
 		    "type": "git",
 		    "url": "https://github.com/mki1967/mki3dgame",
-		    "commit" : "500e390358ae54f2828c24ec0627bfbc732cd5d4",
+		    "commit" : "44b6af2ff44667df325d246d73eca64c9400883b",
 		    "dest": "go/src/github.com/mki1967/mki3dgame"
 		},
 		{
