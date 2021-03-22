@@ -67,7 +67,7 @@
 		{
 		    "type": "git",
 		    "url": "https://github.com/mki1967/mki3dgame",
-		    "commit" : "95fcf89ab39f84a8c0a478a65a9a663cd34beced",
+		    "commit" : "13e33d72e9179ac6e25fddeee1e4f8f7ef27381d",
 		    "dest": "go/src/github.com/mki1967/mki3dgame"
 		},
 		{
