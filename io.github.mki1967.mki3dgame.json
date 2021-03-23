@@ -1,7 +1,7 @@
 {
     "app-id": "io.github.mki1967.mki3dgame",
     "runtime": "org.freedesktop.Platform",
-    "runtime-version": "19.08",
+    "runtime-version": "20.08",
     "sdk": "org.freedesktop.Sdk",
     "sdk-extensions": [
         "org.freedesktop.Sdk.Extension.golang"
@@ -33,7 +33,7 @@
 		{
 		    "type": "script",
 		    "commands": [
-			". /app/bin/scripts/my_enable.sh; cd /app/go/src/$1; go build"
+			". /app/bin/scripts/my_enable.sh; cd /app/go/src/$1; GO111MODULE=off go build"
 		    ],
 		    "dest-filename": "build.sh"
 		}
